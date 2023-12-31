@@ -36,4 +36,4 @@ Este projeto é uma base simples que pode ser expandida com mais funcionalidades
 
 ## Ver a interface do site
 
-Para ver o resultado so site so acessar `https://curso-a1ef2.web.app/`[ou clique aqui](https://curso-a1ef2.web.app/).
+Para ver o resultado acessar `https://curso-a1ef2.web.app/`[ou clique aqui](https://curso-a1ef2.web.app/).
