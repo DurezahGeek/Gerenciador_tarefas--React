@@ -16,7 +16,8 @@
 > [!NOTE]
 > React: O frontend do aplicativo é construído usando a biblioteca React.
 
- Firebase: O Firebase é utilizado para autenticação de usuários, armazenamento de dados em tempo real e como backend para o aplicativo.
+> Firebase: O Firebase é utilizado para autenticação de usuários, armazenamento de dados em tempo real e como backend para o aplicativo.
+
 > React Toastify: A biblioteca React Toastify é usada para exibir notificações de ações, como sucesso, erro e confirmação.
 
 ## Estrutura do Projeto
@@ -32,3 +33,7 @@
 Para usar este aplicativo, você precisará configurar seu próprio projeto no Firebase e substituir as configurações no arquivo firebaseConnection.js com as credenciais do seu projeto.
 
 Este projeto é uma base simples que pode ser expandida com mais funcionalidades, autenticação aprimorada e estilos. Sinta-se à vontade para adaptá-lo de acordo com suas necessidades.
+
+## Ver a interface do site
+
+Para ver o resultado so site so acessar `https://curso-a1ef2.web.app/`[ou clique aqui](https://curso-a1ef2.web.app/).
