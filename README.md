@@ -14,12 +14,11 @@
 ## Tecnologias Utilizadas
 
 > [!NOTE]
+> React: O frontend do aplicativo é construído usando a biblioteca React.
 
->React: O frontend do aplicativo é construído usando a biblioteca React.
+> Firebase: O Firebase é utilizado para autenticação de usuários, armazenamento de dados em tempo real e como backend para o aplicativo.
 
->Firebase: O Firebase é utilizado para autenticação de usuários, armazenamento de dados em tempo real e como backend para o aplicativo.
-
->React Toastify: A biblioteca React Toastify é usada para exibir notificações de ações, como sucesso, erro e confirmação.
+> React Toastify: A biblioteca React Toastify é usada para exibir notificações de ações, como sucesso, erro e confirmação.
 
 ## Estrutura do Projeto
 - **src/components/Admin:** Contém o componente principal que representa a página do administrador, onde as tarefas são gerenciadas.
